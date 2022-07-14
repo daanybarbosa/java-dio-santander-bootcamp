@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f608479-31c3-45ac-addf-477cf3e0a9a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/CLBSAula1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/CLBSAula2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/CLBSAula3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/LoopsEx1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/LoopsEx2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/LoopsEx3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/LoopsEx4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/LoopsEx5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/LoopsEx6/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,13 +42,13 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/danielebsilva/Estudos/Java/java-dio-santander-bootcamp/SantanderCodeGirls&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.one.digitalinnovation.basecamp.MetodosAula3.Main">
-    <configuration name="one.digitalinnovation.basecamp.MetodosAula1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.basecamp.MetodosAula1.Main" />
+  <component name="RunManager" selected="Application.one.digitalinnovation.basecamp.LoopsEx6.Main">
+    <configuration name="one.digitalinnovation.basecamp.LoopsEx2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.basecamp.LoopsEx2.Main" />
       <module name="SantanderCodeGirls" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="one.digitalinnovation.basecamp.MetodosAula1.*" />
+          <option name="PATTERN" value="one.digitalinnovation.basecamp.LoopsEx2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="one.digitalinnovation.basecamp.MetodosAula2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.basecamp.MetodosAula2.Main" />
+    <configuration name="one.digitalinnovation.basecamp.LoopsEx3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.basecamp.LoopsEx3.Main" />
       <module name="SantanderCodeGirls" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="one.digitalinnovation.basecamp.MetodosAula2.*" />
+          <option name="PATTERN" value="one.digitalinnovation.basecamp.LoopsEx3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="one.digitalinnovation.basecamp.MetodosAula3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.basecamp.MetodosAula3.Main" />
+    <configuration name="one.digitalinnovation.basecamp.LoopsEx4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.basecamp.LoopsEx4.Main" />
       <module name="SantanderCodeGirls" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="one.digitalinnovation.basecamp.MetodosAula3.*" />
+          <option name="PATTERN" value="one.digitalinnovation.basecamp.LoopsEx4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="one.digitalinnovation.basecamp.VTOAula3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.basecamp.VTOAula3.Main" />
+    <configuration name="one.digitalinnovation.basecamp.LoopsEx5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.basecamp.LoopsEx5.Main" />
       <module name="SantanderCodeGirls" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="one.digitalinnovation.basecamp.VTOAula3.*" />
+          <option name="PATTERN" value="one.digitalinnovation.basecamp.LoopsEx5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="one.digitalinnovation.basecamp.VTOAula4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.basecamp.VTOAula4.Main" />
+    <configuration name="one.digitalinnovation.basecamp.LoopsEx6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.basecamp.LoopsEx6.Main" />
       <module name="SantanderCodeGirls" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="one.digitalinnovation.basecamp.VTOAula4.*" />
+          <option name="PATTERN" value="one.digitalinnovation.basecamp.LoopsEx6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.one.digitalinnovation.basecamp.MetodosAula3.Main" />
-        <item itemvalue="Application.one.digitalinnovation.basecamp.MetodosAula2.Main" />
-        <item itemvalue="Application.one.digitalinnovation.basecamp.MetodosAula1.Main" />
-        <item itemvalue="Application.one.digitalinnovation.basecamp.VTOAula4.Main" />
-        <item itemvalue="Application.one.digitalinnovation.basecamp.VTOAula3.Main" />
+        <item itemvalue="Application.one.digitalinnovation.basecamp.LoopsEx6.Main" />
+        <item itemvalue="Application.one.digitalinnovation.basecamp.LoopsEx5.Main" />
+        <item itemvalue="Application.one.digitalinnovation.basecamp.LoopsEx4.Main" />
+        <item itemvalue="Application.one.digitalinnovation.basecamp.LoopsEx3.Main" />
+        <item itemvalue="Application.one.digitalinnovation.basecamp.LoopsEx2.Main" />
       </list>
     </recent_temporary>
   </component>
