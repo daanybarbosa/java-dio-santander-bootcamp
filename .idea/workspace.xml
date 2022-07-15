@@ -2,11 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f608479-31c3-45ac-addf-477cf3e0a9a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/ArraysEx1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/ArraysEx2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/ArraysEx3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/ArraysEx4/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/ArraysEx1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/arrays/Ex1_OrdemInversa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/ArraysEx2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/arrays/Ex2_Consoantes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/ArraysEx3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/arrays/Ex3_NumerosAleatorios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/ArraysEx4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/arrays/Ex4_ArrayMultidimensional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/CLBSAula1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/opLogRelControlFluxoEBlocos/Ex1_OpRelacionais.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/CLBSAula2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/opLogRelControlFluxoEBlocos/Ex2_OpLogicos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/CLBSAula3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/opLogRelControlFluxoEBlocos/Ex3_ControleDeFluxo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/LoopsEx1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/loops/Ex1_NomeEIdade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/LoopsEx2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/loops/Ex2_Nota.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/LoopsEx3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/loops/Ex3_MaiorEMedia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/LoopsEx4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/loops/Ex4_ParEImpar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/LoopsEx5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/loops/Ex5_Tabuada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/LoopsEx6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/loops/Ex6_Fatorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/MetodosAula1/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/metodos/Ex1/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/MetodosAula1/Emprestimo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/metodos/Ex1/Emprestimo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/MetodosAula1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/metodos/Ex1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/MetodosAula1/Mensagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/metodos/Ex1/Mensagem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/MetodosAula2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/metodos/Ex2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/MetodosAula2/Quadrilatero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/metodos/Ex2/Quadrilatero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/MetodosAula3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/metodos/Ex3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/MetodosAula3/Quadrilatero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/metodos/Ex3/Quadrilatero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/VTOAula1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/variaveisTiposDeDadosEOperadores/Ex1_Variaveis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/VTOAula2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/variaveisTiposDeDadosEOperadores/Ex2_TiposDeDados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/VTOAula3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/variaveisTiposDeDadosEOperadores/Ex3_OperadoresMatematicos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/VTOAula4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/variaveisTiposDeDadosEOperadores/Ex4_Casting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,13 +62,13 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/danielebsilva/Estudos/Java/java-dio-santander-bootcamp/SantanderCodeGirls&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.one.digitalinnovation.basecamp.ArraysEx4.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.basecamp.ArraysEx1.Main" />
+  <component name="RunManager" selected="Application.one.digitalinnovation.bootcamp.arrays.Ex4_ArrayMultidimensional">
+    <configuration name="one.digitalinnovation.bootcamp.arrays.Ex1_OrdemInversa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.bootcamp.arrays.Ex1_OrdemInversa" />
       <module name="SantanderCodeGirls" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="one.digitalinnovation.basecamp.ArraysEx1.*" />
+          <option name="PATTERN" value="one.digitalinnovation.bootcamp.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="one.digitalinnovation.basecamp.ArraysEx2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.basecamp.ArraysEx2.Main" />
+    <configuration name="one.digitalinnovation.bootcamp.arrays.Ex2_Consoantes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.bootcamp.arrays.Ex2_Consoantes" />
       <module name="SantanderCodeGirls" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="one.digitalinnovation.basecamp.ArraysEx2.*" />
+          <option name="PATTERN" value="one.digitalinnovation.bootcamp.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="one.digitalinnovation.basecamp.ArraysEx3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.basecamp.ArraysEx3.Main" />
+    <configuration name="one.digitalinnovation.bootcamp.arrays.Ex3_NumerosAleatorios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.bootcamp.arrays.Ex3_NumerosAleatorios" />
       <module name="SantanderCodeGirls" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="one.digitalinnovation.basecamp.ArraysEx3.*" />
+          <option name="PATTERN" value="one.digitalinnovation.bootcamp.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="one.digitalinnovation.basecamp.ArraysEx4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.basecamp.ArraysEx4.Main" />
+    <configuration name="one.digitalinnovation.bootcamp.arrays.Ex4_ArrayMultidimensional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.bootcamp.arrays.Ex4_ArrayMultidimensional" />
       <module name="SantanderCodeGirls" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="one.digitalinnovation.basecamp.ArraysEx4.*" />
+          <option name="PATTERN" value="one.digitalinnovation.bootcamp.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="one.digitalinnovation.basecamp.LoopsEx6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.basecamp.LoopsEx6.Main" />
+    <configuration name="one.digitalinnovation.bootcamp.loops.Ex6_Fatorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.bootcamp.loops.Ex6_Fatorial" />
       <module name="SantanderCodeGirls" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="one.digitalinnovation.basecamp.LoopsEx6.*" />
+          <option name="PATTERN" value="one.digitalinnovation.bootcamp.loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.one.digitalinnovation.basecamp.ArraysEx4.Main" />
-        <item itemvalue="Application.one.digitalinnovation.basecamp.ArraysEx3.Main" />
-        <item itemvalue="Application.one.digitalinnovation.basecamp.ArraysEx2.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.one.digitalinnovation.basecamp.LoopsEx6.Main" />
+        <item itemvalue="Application.one.digitalinnovation.bootcamp.arrays.Ex4_ArrayMultidimensional" />
+        <item itemvalue="Application.one.digitalinnovation.bootcamp.arrays.Ex3_NumerosAleatorios" />
+        <item itemvalue="Application.one.digitalinnovation.bootcamp.arrays.Ex2_Consoantes" />
+        <item itemvalue="Application.one.digitalinnovation.bootcamp.arrays.Ex1_OrdemInversa" />
+        <item itemvalue="Application.one.digitalinnovation.bootcamp.loops.Ex6_Fatorial" />
       </list>
     </recent_temporary>
   </component>
@@ -148,16 +170,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/one/digitalinnovation/basecamp/LoopsEx6/Main.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
