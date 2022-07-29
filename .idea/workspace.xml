@@ -2,28 +2,68 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f608479-31c3-45ac-addf-477cf3e0a9a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/collections/list/Ex1_MetodosList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/collections/list/Ex2_OrdenacaoList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/collections/list/Ex3_ExercicioProposto01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/collections/list/Ex4_ExercicioProposto02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/collections/map/Ex1_MetodosMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/collections/map/Ex2_OrdenacaoMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/collections/map/Ex3_ExercicioProposto01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/collections/map/Ex4_ExercicioProposto02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/collections/map/Ex5/Contato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/collections/map/Ex5/Ex5_ExercicioProposto03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/collections/set/Ex1_MetodosSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/collections/set/Ex2_OrdernacaoSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/collections/set/Ex3_ExerciciosPropostos01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/collections/set/Ex4_ExerciciosPropostos02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/collections/streamApi/Ex1/Contato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/collections/streamApi/Ex1/Ex1_OperacoesStreamApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/collections/streamApi/Ex2_OperacoesStreamApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/desafios/desafio01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/desafios/desafio02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/desafios/desafio03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/debugging/CalculadoraDeMedias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/debugging/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/debugging/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/desafioCodigo/desafio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/desafioCodigo/desafio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/desafioCodigo/desafio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/desafioProjeto/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/desafioProjeto/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/desafioProjeto/dominio/Bootcamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/desafioProjeto/dominio/Conteudo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/desafioProjeto/dominio/Curso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/desafioProjeto/dominio/Dev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/desafioProjeto/dominio/Mentoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/exceptions/Ex1_UncheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/exceptions/Ex2_CheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/exceptions/Ex3_ExceptionCustomizada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/exceptions/Ex4/DivisaoNaoExataException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/exceptions/Ex4/DivisaoPorZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/exceptions/Ex4/Ex4_ExceptionCustomizada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/exceptions/Ex4/IndiceForaDosLimites.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/exceptions/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/exceptions/romances-blake-crouch.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/estruturaBasica/atributo/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/estruturaBasica/classe/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/estruturaBasica/metodo/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/estruturaBasica/objetoEMensagem/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/estruturaBasica/objetoEMensagem/RodarAplicacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/pacotesEVisibilidade/Ex1_Pacotes/ExemploPacote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/pacotesEVisibilidade/Ex1_Pacotes/outroPacote/ExemploPacote1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/pacotesEVisibilidade/Ex1_Pacotes/outroPacote/ExemploPacote2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/pacotesEVisibilidade/Ex1_Pacotes/qualquer/outro/pacote/ExemplosPacote3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/pacotesEVisibilidade/Ex2_Visibilidade/Classe1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/pacotesEVisibilidade/Ex2_Visibilidade/Classe2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/pacotesEVisibilidade/Ex2_Visibilidade/Classe3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/pacotesEVisibilidade/Ex2_Visibilidade/outro/pacote/Classe4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/praticandoPOO/EntregaCartaoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/praticandoPOO/model/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/praticandoPOO/model/Endereco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/praticandoPOO/model/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/relacoes/associacao/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/relacoes/associacao/Compra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/relacoes/associacao/Cupom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/relacoes/associacao/Disciplina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/relacoes/associacao/Endereco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/relacoes/associacao/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/relacoes/heranca/Ex1_Heranca/Caminhao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/relacoes/heranca/Ex1_Heranca/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/relacoes/heranca/Ex1_Heranca/Moto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/relacoes/heranca/Ex1_Heranca/Veiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/relacoes/heranca/Ex2_UpcastEDowncast/Faxineiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/relacoes/heranca/Ex2_UpcastEDowncast/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/relacoes/heranca/Ex2_UpcastEDowncast/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/relacoes/heranca/Ex2_UpcastEDowncast/RodarAplicacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/relacoes/heranca/Ex2_UpcastEDowncast/Vendedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/relacoes/heranca/Ex3_PolimorfismoESobrescrita/ClasseFilha1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/relacoes/heranca/Ex3_PolimorfismoESobrescrita/ClasseFilha2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/relacoes/heranca/Ex3_PolimorfismoESobrescrita/ClasseMae.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/relacoes/heranca/Ex3_PolimorfismoESobrescrita/RodarAplicacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/relacoes/interfaces/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/poo/relacoes/interfaces/OperacaoMatematica.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/variaveisTiposDeDadosEOperadores/Ex1_Variaveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/digitalinnovation/bootcamp/variaveisTiposDeDadosEOperadores/Ex1_Variaveis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +73,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -58,13 +100,21 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.one.digitalinnovation.bootcamp.desafios.desafio03">
-    <configuration name="Ex1_OrdemInversa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.bootcamp.arrays.Ex1_OrdemInversa" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/one/digitalinnovation/modulo3/exceptions" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/one/digitalinnovation" />
+      <recent name="$PROJECT_DIR$/src/one/digitalinnovation/modulo3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.modulo3.desafioProjeto.Main" />
       <module name="SantanderCodeGirls" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="one.digitalinnovation.bootcamp.arrays.*" />
+          <option name="PATTERN" value="one.digitalinnovation.modulo3.desafioProjeto.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex4_ArrayMultidimensional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.bootcamp.arrays.Ex4_ArrayMultidimensional" />
+    <configuration name="one.digitalinnovation.modulo3.desafioCodigo.desafio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.modulo3.desafioCodigo.desafio1" />
       <module name="SantanderCodeGirls" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="one.digitalinnovation.bootcamp.arrays.*" />
+          <option name="PATTERN" value="one.digitalinnovation.modulo3.desafioCodigo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="one.digitalinnovation.bootcamp.desafios.desafio01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.bootcamp.desafios.desafio01" />
+    <configuration name="one.digitalinnovation.modulo3.desafioCodigo.desafio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.modulo3.desafioCodigo.desafio2" />
       <module name="SantanderCodeGirls" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="one.digitalinnovation.bootcamp.desafios.*" />
+          <option name="PATTERN" value="one.digitalinnovation.modulo3.desafioCodigo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="one.digitalinnovation.bootcamp.desafios.desafio02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.bootcamp.desafios.desafio02" />
+    <configuration name="one.digitalinnovation.modulo3.desafioCodigo.desafio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.modulo3.desafioCodigo.desafio3" />
       <module name="SantanderCodeGirls" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="one.digitalinnovation.bootcamp.desafios.*" />
+          <option name="PATTERN" value="one.digitalinnovation.modulo3.desafioCodigo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="one.digitalinnovation.bootcamp.desafios.desafio03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.bootcamp.desafios.desafio03" />
+    <configuration name="one.digitalinnovation.modulo3.exceptions.Ex4.Ex4_ExceptionCustomizada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.modulo3.exceptions.Ex4.Ex4_ExceptionCustomizada" />
       <module name="SantanderCodeGirls" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="one.digitalinnovation.bootcamp.desafios.*" />
+          <option name="PATTERN" value="one.digitalinnovation.modulo3.exceptions.Ex4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.one.digitalinnovation.bootcamp.desafios.desafio03" />
-        <item itemvalue="Application.one.digitalinnovation.bootcamp.arrays.Ex1_OrdemInversa" />
-        <item itemvalue="Application.one.digitalinnovation.bootcamp.arrays.Ex4_ArrayMultidimensional" />
-        <item itemvalue="Application.one.digitalinnovation.bootcamp.desafios.desafio02" />
-        <item itemvalue="Application.one.digitalinnovation.bootcamp.desafios.desafio01" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.one.digitalinnovation.modulo3.desafioCodigo.desafio3" />
+        <item itemvalue="Application.one.digitalinnovation.modulo3.desafioCodigo.desafio2" />
+        <item itemvalue="Application.one.digitalinnovation.modulo3.desafioCodigo.desafio1" />
+        <item itemvalue="Application.one.digitalinnovation.modulo3.exceptions.Ex4.Ex4_ExceptionCustomizada" />
       </list>
     </recent_temporary>
   </component>
@@ -166,5 +216,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/one/digitalinnovation/modulo3/debugging/CalculadoraDeMedias.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
