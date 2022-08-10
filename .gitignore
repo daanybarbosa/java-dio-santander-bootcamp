@@ -3,7 +3,7 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
-/src/one/digitalinnovation/modulo2/desafios/
+src/one/digitalinnovation/modulo2/desafios/
 /src/one/digitalinnovation/modulo3/desafioCodigo/
 /src/one/digitalinnovation/modulo3/desafioProjeto/
 
