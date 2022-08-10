@@ -4,6 +4,11 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/src/one/digitalinnovation/modulo2/out" />
+      <excludeFolder url="file://$MODULE_DIR$/src/one/digitalinnovation/modulo4/SpringFramework/Ex1_introducaoSpring/.idea/libraries" />
+      <excludeFolder url="file://$MODULE_DIR$/src/one/digitalinnovation/modulo4/SpringFramework/Ex1_introducaoSpring/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/one/digitalinnovation/modulo4/SpringFramework/Ex3_ProjetoSpringBootInitializr/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/src/one/digitalinnovation/modulo4/SpringFramework/Ex3_ProjetoSpringBootInitializr/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

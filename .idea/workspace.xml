@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f608479-31c3-45ac-addf-477cf3e0a9a4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SantanderCodeGirls.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SantanderCodeGirls.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/modulo4/SpringFramework/Ex2_ProjetoMaven" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo4/SpringFramework/Ex2_ProjetoMaven" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/digitalinnovation/modulo4/SpringFramework/Ex2_ProjetoMaven/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/digitalinnovation/modulo4/SpringFramework/Ex2_ProjetoMaven/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
