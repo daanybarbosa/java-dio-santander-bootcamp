@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ex1_introducaoSpring/Ex1_introducaoSpring.iml" filepath="$PROJECT_DIR$/Ex1_introducaoSpring/Ex1_introducaoSpring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex2_ProjetoMaven/Ex2_ProjetoMaven.iml" filepath="$PROJECT_DIR$/Ex2_ProjetoMaven/Ex2_ProjetoMaven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringFramework.iml" filepath="$PROJECT_DIR$/.idea/SpringFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex3_ProjetoSpringBootInitializr/projeto-spring-boot.iml" filepath="$PROJECT_DIR$/Ex3_ProjetoSpringBootInitializr/projeto-spring-boot.iml" />
+    </modules>
+  </component>
+</project>

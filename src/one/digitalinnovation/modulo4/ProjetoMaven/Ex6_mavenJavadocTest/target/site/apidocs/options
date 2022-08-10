@@ -1,0 +1,24 @@
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'/Users/danielebsilva/Estudos/Java/java-dio-santander-bootcamp/SantanderCodeGirls/src/one/digitalinnovation/modulo4/ProjetoMaven/Ex6_mavenJavadocTest/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/danielebsilva/Estudos/Java/java-dio-santander-bootcamp/SantanderCodeGirls/src/one/digitalinnovation/modulo4/ProjetoMaven/Ex6_mavenJavadocTest/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Ex6_mavenJavadocTest 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' '/Users/danielebsilva/Estudos/Java/java-dio-santander-bootcamp/SantanderCodeGirls/src/one/digitalinnovation/modulo4/ProjetoMaven/Ex6_mavenJavadocTest/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Ex6_mavenJavadocTest 1.0-SNAPSHOT API'
