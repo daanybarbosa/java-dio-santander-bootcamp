@@ -32,6 +32,7 @@ import java.util.Scanner;
  */
 
 public class desafio02 {
+
     public static void main(String[] args) {
 
         System.out.println(("Informe um numero: "));

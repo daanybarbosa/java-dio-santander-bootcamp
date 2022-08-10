@@ -19,7 +19,6 @@ import java.util.Scanner;
  *
  */
 public class desafio01 {
-
     public static void main(String[] args) throws IOException {
 
         System.out.println(("Informe o valor: "));

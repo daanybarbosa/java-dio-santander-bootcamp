@@ -17,7 +17,6 @@ import java.util.Scanner;
  */
 
 public class desafio03 {
-
     public static void main(String[] args) throws IOException {
 
         Scanner scan = new Scanner(System.in);
